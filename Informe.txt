@@ -1,1 +1,5 @@
 Hoy realizaremos la ultima practica de Git para continuar con Python
+Iniciamos haciendo la recuperacion del examen de git de forma escrita
+luego la profe nos dio instruciones para hacer la ultima practica de git
+ya procedimos a crear la carpeta, abrirla en visual y por ultimo abrir Git Bash here 
+y digitar los comandos aprendidos en la anteriores clases
